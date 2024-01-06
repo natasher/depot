@@ -1,7 +1,6 @@
 # frozen_string_literal: true
 
 module CurrentCart
-
   private
 
     def set_cart
